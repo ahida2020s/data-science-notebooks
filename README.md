@@ -10,7 +10,10 @@ This repository contains a Jupyter Notebook The notebook summarizes popular tool
 - Basic arithmetic expression in Python
 - 
 ### 🔗 How to View
-You can view the notebook directly in GitHub or use [nbviewer](https://nbviewer.org/) to see a rendered version.
+**GitHub Link:**  
+[View Notebook on GitHub](https://github.com/ahida2020s/data-science-notebooks/blob/main/DataScienceEcosystem.ipynb)
+**NBViewer Link:**  
+[View with NBViewer](https://nbviewer.org/github/ahida2020s/data-science-notebooks/blob/main/DataScienceEcosystem.ipynb)
 
 ### ✍️ Author
 Shaik Ahida
